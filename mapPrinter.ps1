@@ -1,5 +1,5 @@
-# 3600 printer driver installation for gilestibe
-# written by Regan Kouchoo @ netway.net.au
+# 3600 printer driver installation for redacted
+# written by Regan Kouchoo @ redacted.net.au
 # define what and where we want to install this printer
 
 $drivername = "HP DesignJet XL 3600 V4"
